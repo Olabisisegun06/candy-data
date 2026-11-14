@@ -38,6 +38,15 @@ The answers to these questions should be supported by the results and calculatio
 
 - `Candy Project.xlsx` — the Excel workbook associated with this project.
 
+ ## Project Dashboard 
+
+ 
+<img width="988" height="355" alt="candy data screenshot " src="https://github.com/user-attachments/assets/9dd83f2c-6f0c-4c43-884d-82ac0c3d1570" />
+
+
+
+
+
 ## Learning Outcome
 
 This project provided practical experience in examining sales data and exploring how product-level performance can be assessed using Microsoft Excel.
